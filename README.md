@@ -5,7 +5,7 @@ Each day, I'll be tackling a coding challenge to enhance my understanding and pr
 
 ## Daily Challenges
 
-- **Day 1**: [today i make calculator and see the perfect use of foreach, array.from and eval()]()
+- **Day 1**: [today i make calculator and see the perfect use of foreach, array.from and eval()](https://github.com/AshishSwamii/javaScript-30-day-challange/blob/main/calculator.html)
 
 ## Feedback
 
