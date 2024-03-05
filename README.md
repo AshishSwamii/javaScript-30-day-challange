@@ -7,6 +7,9 @@ Each day, I'll be tackling a coding challenge to enhance my understanding and pr
 
 - **Day 1**: [today i make calculator and see the perfect use of foreach, array.from and eval()](https://github.com/AshishSwamii/javaScript-30-day-challange/blob/main/calculator.html)
 
+- **Day 2**: [today i make TODO List with local stroage in this i learn how to get and set data on local stroage]
+- (https://github.com/AshishSwamii/javaScript-30-day-challange/tree/main/Todo)
+
 ## Feedback
 
 If you have any feedback, suggestions, or questions about my challenge, feel free to contact me (mailto:ashuswami962@gmail.com) oR (9729270608) .
